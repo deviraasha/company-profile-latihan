@@ -1,0 +1,869 @@
+.hero-content-header {
+  position: absolute;
+  width: 221.21px;
+  height: 68px;
+  left: 40.78px;
+  top: 110px;
+  color: #fff;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 34px;
+}
+
+.hero-content {
+  position: absolute;
+  width: 337.43px;
+  height: 95px;
+  left: 40.78px;
+  top: 193px;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+
+  color: #ffffff;
+}
+
+.container-about {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 630px;
+  bottom: 0%;
+}
+.gorupOne {
+  height: 445px;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  /* background-color: greenyellow; */
+}
+
+.title {
+  height: 38.431819915771484px;
+  width: 338.4689025878906px;
+  left: 40.87591552734375px;
+  top: 48.54541015625px;
+  border-radius: 0px;
+
+  position: absolute;
+  left: 9.73%;
+  right: 9.68%;
+  top: 10.91%;
+  bottom: 80.45%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 30px;
+  color: #029fe4;
+}
+
+.title-child {
+  height: 38.43182373046875px;
+  width: 331.7443542480469px;
+  left: 40.87591552734375px;
+  top: 98.10223388671875px;
+  border-radius: 0px;
+
+  position: absolute;
+  left: 9.73%;
+  right: 11.28%;
+  top: 22.05%;
+  bottom: 69.32%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 38px;
+
+  /* or 211% */
+
+  color: #000000;
+}
+
+.content-about {
+  height: 196.20452880859375px;
+  width: 337.34814453125px;
+  border-radius: 0px;
+  position: absolute;
+  left: 10%;
+  right: 9.68%;
+  top: 30.41%;
+  bottom: 25.5%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+
+  color: #777777;
+}
+
+.number-one {
+  height: 38px;
+  border-radius: 0px;
+  position: absolute;
+  left: 9.73%;
+  right: 70.32%;
+  top: 74.83%;
+  bottom: 16.63%;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 38px;
+}
+
+.number-slide {
+  height: 38px;
+  border-radius: 0px;
+  position: absolute;
+  left: 12.73%;
+  right: 70.32%;
+  top: 74.83%;
+  bottom: 16.63%;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 38px;
+}
+
+.number-two {
+  height: 38px;
+  width: 83.79562377929688px;
+  border-radius: 0px;
+
+  position: absolute;
+  left: 13.73%;
+  right: 70.32%;
+  top: 74.83%;
+  bottom: 16.63%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 38px;
+
+  /* identical to box height, or 158% */
+
+  color: #c0c0c0;
+}
+
+.button-scroll {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  position: absolute;
+  width: 40.78px;
+  height: 40px;
+  left: 50%;
+  top: 610px;
+  z-index: 2;
+}
+
+.carousel-control-one {
+  height: 46.94094467163108px;
+  width: 51.98311996459977px;
+  border-radius: 0px;
+
+  border: 0px;
+  position: absolute;
+  left: 80.07%;
+  right: 9.55%;
+  top: 72.49%;
+  bottom: 4.96%;
+
+  background: #f1f1f1;
+  /* transform: rotate(180deg); */
+}
+
+.carousel-control-two {
+  height: 46.940914154052955px;
+  width: 51.98308944702165px;
+  border-radius: 0px;
+  border: 0px;
+
+  position: absolute;
+  left: 87.34%;
+  right: -2.71%;
+  top: 72.49%;
+  bottom: 4.97%;
+
+  background: #1ba0e1;
+  transform: rotate(180deg);
+}
+
+.carousel-icon-arrow {
+  position: absolute;
+  left: 82%;
+  right: 13.47%;
+  top: 79.22%;
+  bottom: 20.78%;
+
+  border: 2px solid #ffffff;
+}
+
+.container-values {
+  position: absolute;
+  width: 100%;
+  height: 400px;
+  left: 0px;
+  top: 1056px;
+  background: #f8f8f8;
+}
+
+.title-content {
+  position: absolute;
+  width: 274px;
+  height: 30px;
+  left: 73px;
+  top: 56px;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 30px;
+
+  /* identical to box height, or 83% */
+
+  color: #029fe4;
+}
+
+.content-values {
+  position: absolute;
+  left: 5.95%;
+  right: 5.95%;
+  top: 25.31%;
+  bottom: 60.62%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* or 150% */
+  letter-spacing: 0.01em;
+
+  color: #777777;
+}
+
+/* listingg */
+
+.rectangle {
+  position: absolute;
+  left: 3.57%;
+  right: 90.24%;
+  top: 49.91%;
+  bottom: 59.03%;
+
+  background: #747474;
+}
+.title-list {
+  position: absolute;
+  left: 6.05%;
+  right: 24.76%;
+  top: 50.5%;
+  bottom: 58.51%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+
+  /* identical to box height, or 158% */
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.content-list {
+  position: absolute;
+  left: 6.05%;
+  right: 3.57%;
+  top: 54.67%;
+  bottom: 56.21%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* or 150% */
+
+  color: #777777;
+}
+
+/* listing-2 */
+.rectangle-2 {
+  position: absolute;
+  left: 3.57%;
+  right: 90.24%;
+  top: 64%;
+  bottom: 59.03%;
+
+  background: #747474;
+}
+.title-list-2 {
+  position: absolute;
+  left: 6.05%;
+  right: 24.76%;
+  top: 65%;
+  bottom: 58.51%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+
+  /* identical to box height, or 158% */
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.content-list-2 {
+  position: absolute;
+  left: 6.05%;
+  right: 3.57%;
+  top: 69.67%;
+  bottom: 56.21%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* or 150% */
+
+  color: #777777;
+}
+
+/* listing-3 */
+.rectangle-3 {
+  position: absolute;
+  left: 3.57%;
+  right: 90.24%;
+  top: 79.91%;
+  bottom: 59.03%;
+
+  background: #747474;
+}
+.title-list-3 {
+  position: absolute;
+  left: 6.05%;
+  right: 24.76%;
+  top: 80%;
+  bottom: 58.51%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+
+  /* identical to box height, or 158% */
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.content-list-3 {
+  position: absolute;
+  left: 6.05%;
+  right: 3.57%;
+  top: 83.67%;
+  bottom: 56.21%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* or 150% */
+
+  color: #777777;
+}
+
+.ilustration {
+  position: absolute;
+  width: 420px;
+  height: 250px;
+  left: 900px;
+  top: 120px;
+
+  background: #f8f8f8;
+}
+
+.container-specialty {
+  position: absolute;
+  width: 100%;
+  height: 600px;
+  left: 0px;
+  top: 1450px;
+}
+
+.child-container {
+  position: absolute;
+  left: 4.81%;
+  right: 5.05%;
+  top: 5.01%;
+  bottom: 6.73%;
+
+  background: #ffffff;
+}
+
+.containt-bg {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #509fdd;
+}
+
+.title-specialty {
+  position: absolute;
+  left: 12.74%;
+  right: 14.66%;
+  top: 11.03%;
+  bottom: 83.24%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+
+  color: #029fe4;
+}
+
+.content-specialty {
+  position: absolute;
+  left: 12.74%;
+  right: 11.3%;
+  top: 17.19%;
+  bottom: 67.91%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 24px;
+
+  /* or 171% */
+
+  color: #303030;
+}
+
+.container-style {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  margin-top: 54px;
+  flex: 1;
+  justify-content: center;
+  align-items: middle;
+}
+
+.card-style {
+  height: 400px;
+  width: 200px;
+  padding-top: 50px;
+  text-align: center;
+  background: rgb(228, 224, 224);
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+.icon-carousel {
+  height: 110px;
+  width: 130px !important;
+  margin-bottom: 50px;
+}
+
+.content-card {
+  margin-top: 175px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.content-body {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  color: #fff;
+  text-align: center;
+}
+
+.container-carousel {
+  height: 483px;
+}
+
+.carousel-content {
+  margin-left: 30px;
+  margin-left: 111px;
+  margin-right: 93px;
+}
+
+.icon-next {
+}
+
+.icon-prev {
+}
+
+.bg-footer {
+  background-image: url("../../public/assets//images//BG.png");
+  position: absolute;
+  width: 100%;
+  height: 400px;
+  left: 0px;
+  top: 2446px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo-footer {
+  position: absolute;
+  width: 228.02px;
+  height: 45px;
+  left: 30px;
+  top: 34px;
+}
+
+.company-info {
+  position: absolute;
+  left: 6.31%;
+  right: 6.49%;
+  top: 16.67%;
+  bottom: 45.87%;
+  height: 245.0208740234375px;
+  width: 366.2398681640625px;
+  left: 26.504867553710938px;
+  top: 109px;
+  background-color: #fff;
+}
+
+.location {
+  position: absolute;
+  left: 14.1%;
+  right: 38.28%;
+  top: 32.83%;
+  bottom: 53.11%;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.02em;
+
+  color: #25a0d8;
+}
+
+.list-footer {
+  position: absolute;
+  left: 6.4%;
+  right: 72.73%;
+  top: -2.24%;
+  bottom: 19.11%;
+  height: 144.6898193359375px;
+  width: 100%;
+  left: 400px;
+  color: #fff;
+}
+@media only screen and (min-width: 769px) {
+  .hero {
+    position: absolute;
+    width: 100%;
+    height: 363.34px;
+    left: 0px;
+    top: 195px;
+    background-image: url("../../public/assets/images/Background.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .background-img {
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    left: 0px;
+    background-image: url("../../public/assets/images/hero.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+  .hero {
+    position: absolute;
+    width: 100%;
+    height: 363.34px;
+    left: 0px;
+    top: 195px;
+    background-image: url("../../public/assets/images/Background.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .background-img {
+    position: absolute;
+    width: 100%;
+    height: 414px;
+    left: 0px;
+    background-image: url("../../public/assets/images/hero.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .number-slide {
+    left: 14.73%;
+  }
+  .number-two {
+    left: 15.73%;
+  }
+  .carousel-control-one {
+    left: 78.07%;
+  }
+  .title-list {
+    left: 9.05%;
+  }
+
+  .container-values {
+    height: 790px;
+  }
+  .ilustration {
+    width: 420px;
+    height: 250px;
+    left: 139px;
+    top: 509px;
+  }
+  .content-values {
+    top: 12.31%;
+  }
+
+  .rectangle {
+    left: 7.05%;
+    top: 27.91%;
+  }
+  .rectangle-2 {
+    left: 7.05%;
+    top: 37%;
+  }
+  .rectangle-3 {
+    left: 7.05%;
+    top: 46.91%;
+  }
+  .title-list {
+    left: 14.05%;
+    top: 16.5%;
+  }
+  .title-list-2 {
+    left: 14.05%;
+    top: 35%;
+  }
+  .title-list-3 {
+    left: 14.05%;
+    top: 47%;
+  }
+  .content-list {
+    left: 14.05%;
+    top: 29.67%;
+  }
+  .content-list-2 {
+    left: 14.05%;
+    top: 39.67%;
+  }
+  .content-list-3 {
+    left: 14.05%;
+    top: 48.67%;
+  }
+
+  .container-specialty {
+    top: 1846px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .button-scroll {
+    left: 200px;
+  }
+  .number-two {
+    left: 16.73%;
+  }
+  .carousel-control-one {
+    left: 69.07%;
+  }
+  .carousel-control-two {
+    left: 82.34%;
+  }
+  .rectangle {
+    left: 7.05%;
+    top: 28.91%;
+  }
+  .rectangle-2 {
+    left: 7.05%;
+    top: 41.91%;
+  }
+  .rectangle-3 {
+    left: 7.05%;
+    top: 53.91%;
+  }
+  .title-list {
+    left: 14.05%;
+    top: 18.5%;
+  }
+  .title-list-2 {
+    left: 14.05%;
+    top: 42%;
+  }
+  .title-list-3 {
+    left: 14.05%;
+    top: 54%;
+  }
+  .content-list {
+    left: 14.05%;
+    top: 31.67%;
+  }
+  .content-list-2 {
+    left: 14.05%;
+    top: 56.67%;
+  }
+  .content-list-3 {
+    left: 14.05%;
+    top: 44.67%;
+  }
+  .ilustration {
+    width: 420px;
+    height: 250px;
+    left: 20px;
+    top: 650px;
+  }
+  .container-values {
+    height: 990px;
+  }
+  .content-values {
+    top: 10.31%;
+  }
+
+  .container-specialty {
+    top: 2046px;
+  }
+
+  .container-specialty {
+    height: 698px;
+  }
+  .card-style {
+    height: 400px;
+    width: 200px;
+    padding-top: 50px;
+    text-align: center;
+    background: #fff;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  .container-style {
+    margin-top: 100px;
+  }
+
+  .content-card {
+    margin-top: 218px;
+  }
+  .container-carousel {
+    height: 600px;
+  }
+  .carousel-content {
+    margin-left: 30px;
+    margin-right: 0px;
+  }
+
+  .bg-footer {
+    top: 2744px;
+  }
+  .logo-footer {
+    position: absolute;
+    width: 228.02px;
+    height: 45px;
+    left: 30px;
+    top: 34px;
+  }
+  
+  .bg-footer{
+    height: 654px;
+  }
+  .company-info {
+    position: absolute;
+    left: 6.31%;
+    right: 6.49%;
+    top: 16.67%;
+    bottom: 45.87%;
+    height: 245.0208740234375px;
+    width: 366.2398681640625px;
+    left: 26.504867553710938px;
+    top: 109px;
+    background-color: #fff;
+  }
+  
+  .location {
+    position: absolute;
+    left: 14.1%;
+    right: 38.28%;
+    top: 32.83%;
+    bottom: 53.11%;
+  
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+  
+    color: #25a0d8;
+  }
+  
+  .list-footer {
+    position: absolute;
+    left: 6.4%;
+    right: 72.73%;
+    top: 109.76%;
+    bottom: 19.11%;
+    height: 144.6898193359375px;
+    width: 100%;
+    left: 26.879989624023438px;
+    color: #fff;
+  }
+}
