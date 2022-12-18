@@ -1,7 +1,4 @@
 import React from "react";
-import ReactCarousel, { AFTER, CENTER, BEFORE } from "react-carousel-animated";
-import images from "./Images";
-import MyCarousel from "./MyCarousel";
 import "react-carousel-animated/dist/style.css";
 function Specialty() {
   return (
