@@ -1,5 +1,4 @@
 import React from "react";
-import "react-carousel-animated/dist/style.css";
 function Specialty() {
   return (
     <div className="container-specialty">
